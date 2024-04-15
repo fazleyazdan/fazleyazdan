@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazleyazdan" alt="fazleyazdan" /></a> </p>
 
-- 🔭 I’m currently working on [API automation Using Cypress](https://github.com/fazleyazdan/cypress-api-testing)
-
-- 🌱 I’m currently learning **Appium**
-
-- 👯 I’m looking to collaborate on **Automation Using Cypress & Selenium**
-
 - 👨‍💻 All of my projects are available at [github.com/fazleyazdan](github.com/fazleyazdan)
 
 - 💬 Ask me about **Manual & Automation Testing**
