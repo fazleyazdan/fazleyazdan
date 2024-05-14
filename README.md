@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazleyazdan" alt="fazleyazdan" /></a> </p>
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/fazleyazdan/fazleyazdan/blob/master/assets/coder.gif" />
 
 - 👨‍💻 All of my projects are available at [github.com/fazleyazdan](github.com/fazleyazdan)
 
