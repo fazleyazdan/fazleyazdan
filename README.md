@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **fazleyazdan345@gmail.com**
 
+- <img align="right" height="250" width="375" alt="" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/coder.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fazle-yazdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazle yazdan" height="30" width="40" /></a>
