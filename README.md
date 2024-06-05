@@ -25,3 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazleyazdan&" alt="fazleyazdan" /></p>
 
 ### 🔶 Power to those who sweep the streets with more Knowledge than PhD's
+
+🇵🇸
