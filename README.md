@@ -6,7 +6,7 @@
 <img align="right" height="235" width="350" alt="" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 
 <p align="left">
-** 🔶 Virtue is in the mind, not in the appearance**
+<h4>🔶 Virtue is in the mind, not in the appearance</h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazleyazdan&show_icons=true&locale=en&layout=compact" alt="fazleyazdan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazleyazdan&" alt="fazleyazdan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fazleyazdan&" alt="fazleyazdan" /></p>
 
 ### 🔶 Power to those who sweep the streets with more Knowledge than PhD's
