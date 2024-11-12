@@ -13,11 +13,6 @@
   <img height="235" width="350" alt="" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 </div>
 
-<!-- Motto -->
-<p align="left">
-  <h4>🔶 Virtue is in the mind, not in the appearance</h4>
-</p>
-
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
