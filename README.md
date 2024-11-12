@@ -1,20 +1,3 @@
-<h1 align="center">Hi 👋, I'm Fazle Yazdan</h1>
-<h3 align="center">A passionate Full stack Quality Assurance Engineer</h3>
-
-<!-- GitHub Profile Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fazleyazdan" alt="fazleyazdan" />
-  </a>
-</div>
-
-<!-- Centered Image -->
-<div align="center">
-  <img height="235" width="350" alt="" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
-</div>
-
-<!-- Languages and Tools -->
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
@@ -40,19 +23,7 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
+  <a href="https://playwright.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/playwright/playwright-icon.svg" alt="playwright" width="40" height="40"/>
+  </a>
 </p>
-
-<!-- Stats Section -->
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fazleyazdan&show_icons=true&locale=en&layout=compact" alt="fazleyazdan" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazleyazdan&" alt="fazleyazdan" />
-  </p>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <h4>🔶 Power to those who sweep the streets with more Knowledge than PhD's</h4>
-</div>
