@@ -9,13 +9,13 @@
 </div>
 
 <!-- Right Aligned Image -->
-<div align="right">
+<div align="centert">
   <img height="235" width="350" alt="" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 </div>
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
   </a>
