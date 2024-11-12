@@ -5,11 +5,8 @@
 
 <img align="right" height="235" width="350" alt="" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 
-- 📫 How to reach me **fazleyazdan345@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fazle-yazdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazle yazdan" height="30" width="40" /></a>
+** 🔶 Virtue is in the mind, not in the appearance**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
