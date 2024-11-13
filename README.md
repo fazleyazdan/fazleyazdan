@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://playwright.dev" target="_blank" rel="noreferrer">
-    <img src="images/file_type_playwright.svg" alt="playwright" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_playwright.svg" alt="playwright" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
