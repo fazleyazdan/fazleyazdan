@@ -51,9 +51,9 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fazleyazdan&show_icons=true&locale=en&layout=compact" alt="fazleyazdan" />
   </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazleyazdan&" alt="fazleyazdan" />
-  </p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fazleyazdan&theme=travelers-theme&hide_border=true&card_width=470&hide_current_streak=true" alt="GitHub Streak" /></a>
+  
 </div>
 
 <!-- Footer -->
