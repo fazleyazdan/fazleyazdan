@@ -49,7 +49,7 @@
 <!-- Stats Section -->
 <div align="center">
   <p>
-    <img width="400"src="https://github-readme-stats.vercel.app/api/top-langs?username=fazleyazdan&show_icons=true&locale=en&layout=compact" alt="fazleyazdan" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fazleyazdan&show_icons=true&locale=en&layout=compact" alt="fazleyazdan" />
   </p>
 </div>
 
