@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazle Yazdan</h1>
-<h3 align="center">A passionate Full stack Quality Assurance Engineer</h3>
+<h3 align="center">Full stack Quality Assurance Engineer</h3>
 
 <!-- GitHub Profile Trophies -->
 <div align="center">
