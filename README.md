@@ -55,5 +55,9 @@
 
 <!-- Footer -->
 <div align="center">
+  <h4>🔶 Every man is addicted to something. <br> some smoke, some drink, some chase girls, some waste time. <br> but real man is addicted to discipline, to early wakes, to prayer, to training, to silence.<br> Discipline don't need motivation, discipline moves without feelings, discipline say i go anyway even when you are tired, even when you are lonely.<br> discipline everyday until discipline becomes you.<br> -khabib nurmagovmedove</h4>
+</div>
+
+<div align="center">
   <h4>🔶 Power to those who sweep the streets with more Knowledge than PhD's</h4>
 </div>
