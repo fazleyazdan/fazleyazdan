@@ -48,7 +48,7 @@
 
 <!-- Stats Section -->
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=abc)
+![GitHub Streak](https://streak-stats.demolab.com?user=fazleyazdan)
 </div>
 
 <!-- Footer -->
