@@ -48,7 +48,9 @@
 
 <!-- Stats Section -->
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=fazleyazdan)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abc&theme=github_dark" />
+</p>
 </div>
 
 <!-- Footer -->
