@@ -2,10 +2,6 @@
 <h3 align="center">Full stack Quality Assurance Engineer</h3>
  
 <!-- GitHub Profile Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  </a>
-</div>
 
 <!-- Centered Image -->
 <div align="center">
